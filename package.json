@@ -5,6 +5,8 @@
   "author": "Mohtasim Alam <94981761+codeblitz97@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "cors-anywhere": "^0.4.4"
+    "cors": "^2.8.5",
+    "cors-anywhere": "^0.4.4",
+    "express": "^4.19.2"
   }
 }
