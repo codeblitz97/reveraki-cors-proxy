@@ -1,0 +1,7 @@
+{
+  "name": "reveraki-cors-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mohtasim Alam <94981761+codeblitz97@users.noreply.github.com>",
+  "license": "MIT"
+}
